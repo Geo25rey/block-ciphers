@@ -32,6 +32,7 @@ hex-literal = "0.3"
 
 [features]
 hazmat = [] # Expose cryptographically hazardous APIs
+aes_armv8 = []
 
 [package.metadata.docs.rs]
 all-features = true
